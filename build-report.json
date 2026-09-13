@@ -1,0 +1,26 @@
+{
+  "config": "scripts/shell-config.mjs",
+  "pages": [
+    {
+      "rel": "index.html",
+      "mirrorBytes": 92431,
+      "builtBytes": 91808,
+      "transforms": {
+        "T-BANNER": 1,
+        "T-FLAT-MOMENT": 2,
+        "T-LOCALIZE": 28,
+        "T-NOINDEX": 1,
+        "T-STRIP-ADS": 2
+      }
+    },
+    {
+      "rel": "css/fomantic-2.8.8.min.css",
+      "mirrorBytes": 718944,
+      "builtBytes": 718878,
+      "transforms": {
+        "T-FLAT-GFONTS": 1,
+        "T-LOCALIZE": 1
+      }
+    }
+  ]
+}
